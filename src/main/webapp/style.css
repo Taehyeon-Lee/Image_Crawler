@@ -1,0 +1,45 @@
+body {
+  background-color: #57E099;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+  padding-right: 20px;
+}
+
+.output ul[type="text"]{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.output ul[type="results"]{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.input form{
+  margin-top:13px;
+}
+
+.input input[type="text"] {
+  padding: 10px 20px;
+  width: 450px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.input button[type="button"] {
+  padding: 10px 20px;
+  font-size: 18px;
+}

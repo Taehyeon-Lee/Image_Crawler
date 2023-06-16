@@ -1,0 +1,11 @@
+Please paste your list of test URLs below:
+https://react.dev/
+https://www.northeastern.edu/
+https://web.mit.edu/
+https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)
+https://www.ncausa.org/About-Coffee/History-of-Coffee
+https://github.com/
+https://www.netflix.com/
+https://www.joejuice.com/
+https://www.apple.com/apple-vision-pro/?&&cid=wwa-us-kwgo-avalanche--slid---Brand-AppleVision-Announce-&mtid=20925qtb42335&aosid=p238&mnid=GS4SEdjw-dc_mtid_20925qtb42335_pcrid_{adid}_pgrid_152466493640_
+new.mta.info/agency/new-york-city-transit
